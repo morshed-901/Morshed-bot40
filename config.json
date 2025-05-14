@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "JOY-BOT",
+    "BOTNAME": "Islamic bot",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100000121528628"
+        "100014220751394"
     ],
     "NDH": [
-        "100000121528628"
+        "100014220751394"
     ],
     "DATABASE": {
         "sqlite": {
